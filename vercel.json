@@ -3,11 +3,11 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "https://www.pornhub.com/"
+            "destination": "https://xhamster.com/"
         },
         {
             "source": "/:match*",
-            "destination": "https://www.pornhub.com/:match*"
+            "destination": "https://xhamster.com/:match*"
         }
     ]
 }
