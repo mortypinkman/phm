@@ -3,11 +3,11 @@
     "rewrites": [
         {
             "source": "/",
-            "destination": "https://xhamster.com/"
+            "destination": "https://github.com/"
         },
         {
             "source": "/:match*",
-            "destination": "https://xhamster.com/:match*"
+            "destination": "https://github.com/:match*"
         }
     ]
 }
