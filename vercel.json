@@ -1,0 +1,13 @@
+{
+    "cleanUrls": true,
+    "rewrites": [
+        {
+            "source": "/",
+            "destination": "https://www.pornhub.com/"
+        },
+        {
+            "source": "/:match*",
+            "destination": "https://www.pornhub.com/:match*"
+        }
+    ]
+}
